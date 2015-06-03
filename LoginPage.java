@@ -8,4 +8,6 @@ public class LoginPage {
 	public boolean login(){
 		return true;
 	}
+
+
 }
